@@ -2,7 +2,7 @@
   "name": "pointtoarrow",
   "displayName": "PointToArrow",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "libing",
   "engines": {
     "vscode": "^1.90.0"
@@ -44,5 +44,9 @@
     "webpack-cli": "^6.0.1",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/libinghope/PointToArrow"
   }
 }
