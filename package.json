@@ -2,7 +2,8 @@
   "name": "pointtoarrow",
   "displayName": "PointToArrow",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "license": "MIT",
   "icon": "favicon.ico",
   "publisher": "libing",
   "engines": {
